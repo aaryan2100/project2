@@ -1,4 +1,3 @@
 # New Project
-This project was created from local system [Machine].
-
+This project was created on local system.
 Created by aaryan saini with Shradha didi.
